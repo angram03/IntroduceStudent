@@ -8,7 +8,8 @@ This apps shows the logo of my college, asks for my full name and school name, t
 ### App Walk-though
 
 
-<img src="https://i.imgur.com/lOWFsFb.gif" width=200><br>
+<img src="![](https://i.imgur.com/OoXOfli.gif)
+" width=200><br>
 
 
 ### Required Features
